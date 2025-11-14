@@ -138,6 +138,17 @@ Funções do servidor:
 - Banco de dados
 - Processamento IA
 
+## 🏁 Conclusão
+
+O Sistema Acadêmico Colaborativo demonstra a integração eficiente entre:
+- Linguagens de programação
+- Tratamento de dados
+- Visualização
+- Estrutura de rede
+- Conceitos de IA
+
+É um projeto escalável, didático e ideal para demonstrar interdisciplinaridade no contexto acadêmico.
+
 ## 🧾 Autores
 - Thiago Gomes Magalhães
 - Jorge Conrado Kerssner Neto
