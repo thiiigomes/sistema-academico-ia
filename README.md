@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Banner do Sistema Acadêmico Colaborativo">
+</p>
+
 ## 📚 Sistema Acadêmico Colaborativo com Apoio de Inteligência Artificial 🚀
 
 Projeto Integrado Multidisciplinar (PIM) – UNIP • 2025
