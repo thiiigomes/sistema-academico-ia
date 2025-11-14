@@ -1,0 +1,17 @@
+📘 COMO USAR O SISTEMA
+
+1️⃣ Abra a pasta "projeto_alunos".
+2️⃣ Clique duas vezes em "compilar_e_executar.bat".
+
+O que acontece:
+- O programa C é compilado e executado.
+- Você cadastra os alunos (nome e notas).
+- Os dados são salvos em "dados.txt".
+- O Python abre uma janela mostrando as médias e o status (Aprovado / Reprovado).
+
+⚙️ Requisitos:
+- Python instalado (versão 3 ou superior)
+- GCC (instalado junto com o MinGW)
+
+Se quiser cadastrar mais alunos depois:
+- Basta rodar novamente o arquivo "compilar_e_executar.bat".
